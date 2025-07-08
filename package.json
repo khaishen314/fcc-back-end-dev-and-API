@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "A boilerplate for a Node.js project to help you get started with npm and package.json.",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.21.2"
 	},
 	"main": "server.js",
 	"scripts": {
