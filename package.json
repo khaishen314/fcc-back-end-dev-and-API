@@ -1,9 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Khai Shen",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "backend", "boilerplate", "npm", "package.json" ],
+	"license": "MIT",
 	"version": "1.0.0",
-	"description": "A boilerplate for a Node.js project to help you get started with npm and package.json.",
 	"dependencies": {
-		"express": "^4.21.2"
+
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,6 +15,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": "Khai Shen"
+	}
 }
